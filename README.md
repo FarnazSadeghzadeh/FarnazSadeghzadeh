@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarnazSadeghzadeh
 - 👀 I’m interested in Reading book,Searching web,Designing and Programming
-- 🌱 I’m currently learning how to become Front-end devloper
+
 
 
 <!---
